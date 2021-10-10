@@ -12,21 +12,10 @@ Your task is to test that service A handles this 500 response gracefully (doesn'
 How would you do it?
         
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+test:
+1- content type is json.
+2- status code is 500.
+3- there is an error message that has the text error in it.
 
 
                                 
